@@ -1,0 +1,33 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogItems {
+    padding: 10px;
+}
+
+.dialogItems a {
+    font-family: 'Sigmar One', cursive;
+    text-decoration: none;
+    color: rgb(114, 114, 114);
+}
+
+
+.dialogItems .active {
+    color: gold;
+}
+
+
+
+.messages {
+    padding: 10px;
+}
+
+
+.messages .message {
+    font-family: 'Sigmar One', cursive;
+    text-decoration: none;
+    color: rgb(114, 114, 114);
+}
+

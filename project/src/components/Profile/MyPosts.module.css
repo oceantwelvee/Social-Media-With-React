@@ -1,0 +1,14 @@
+textarea {
+    width: 1000px;
+    border-radius: 20px;
+    font-size: 20px;
+    /* Если что, его то же удаляем */
+}
+
+.postBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 10px;
+}

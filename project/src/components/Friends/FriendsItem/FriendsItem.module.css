@@ -1,0 +1,9 @@
+.list {
+    padding: 5px;
+}
+
+.list a {
+    font-family: 'Sigmar One', cursive;
+    text-decoration: none;
+    color: rgb(114, 114, 114);
+}

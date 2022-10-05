@@ -1,0 +1,20 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(221, 226, 221);
+    padding: 20px;
+  }
+
+.item a {
+  color: rgb(114, 114, 114);
+  font-size: 22px;
+  font-family: 'Sigmar One', cursive;
+  text-decoration: none;
+}
+
+.item a:hover {
+    color: #fff;
+}
+
+.item a .active {
+  color: gold;
+}
